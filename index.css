@@ -1,0 +1,26 @@
+body{
+    background-color: darkmagenta;
+}
+
+
+h1{
+    color: chartreuse;
+    font-size: 70px;
+}
+
+
+button{
+    color: azure;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+}
+
+#take{
+    background-color: red;
+}
+
+
+#add{
+    background-color: green;
+}
